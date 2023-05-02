@@ -1,8 +1,9 @@
 # 💫 About Me:
 I'm currently working in Doodleblue innovations as a Software Engineer.
-
 And Have a huge interest to develop application in flutter, Android.
-especially Flutter Mobile and Web.
+Especially Flutter Mobile and Web responsive.
+
+With experience in REST API, Firebase, Hive, Sqlflite, JSON, Multiple Layouts in Android XML.
 
 
 ## 🌐 Socials:
