@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm currently working in Doodleblue innovations as a Software Engineer
+I'm currently working in Doodleblue innovations as a Software Engineer.
+
 And Have a huge interest to develop application in flutter, Android.
 especially Flutter Mobile and Web.
 
