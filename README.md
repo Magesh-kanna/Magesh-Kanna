@@ -1,10 +1,16 @@
 # 💫 About Me:
-I'm currently working in Doodleblue innovations as a Software Engineer.
-And Have a huge interest to develop application in flutter, Android.
-Especially Flutter Mobile and Web responsive.
 
-With experience in REST API, Firebase, Hive, Sqlflite, JSON, Multiple Layouts in Android XML.
+I'm Software Engineer - I at NPST, India.
 
+👨‍💻 Mobile App Developer | Flutter & iOS
+🚀 Building cross-platform apps with performance in mind  
+🎯 On a journey to become a full-stack mobile expert  
+💡 Learning, mentoring & creating impactful solutions  
+
+Portfolio:
+https://mageshportfolio.netlify.app/
+
+Coffee/Appreciation:
 https://www.buymeacoffee.com/codermagesh
 
 ## 🌐 Socials:
@@ -26,4 +32,3 @@ https://www.buymeacoffee.com/codermagesh
 ---
 [![](https://visitcount.itsvg.in/api?id=Magesh-Doodleblue&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
