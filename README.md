@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-👋 Hi, I'm Magesh — Software Engineer - I at NPST, India 🇮🇳  
+👋 Hi, I'm Magesh — SDE I at NPST, India 🇮🇳  
 
 👨‍💻 Mobile App Developer | Flutter & iOS 
 💙 Crafting sleek, high-performant mobile apps  
