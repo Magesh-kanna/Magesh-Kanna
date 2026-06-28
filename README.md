@@ -2,7 +2,7 @@
 
 👋 Hi, I'm Magesh — Software Engineer from India 🇮🇳  
 
-👨‍💻 Mobile App Developer | Flutter & iOS & Kotlin Multi Platform
+👨‍💻 Mobile App Developer | Flutter & iOS & Kotlin Multi Platform.
 💙 Crafting sleek, high-performant mobile apps  
 🚀 On a mission to become a full-stack mobile wizard 🧙‍♂️  
 💡 Sharing what I learn, mentoring devs, and shipping solid code  
