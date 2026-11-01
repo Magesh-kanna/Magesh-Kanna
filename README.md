@@ -1,9 +1,10 @@
 <div align="center">
 
-# Hi, I'm Magesh 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:02569B,100:0175C2&text=Magesh%20Kanna&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Mobile%20Engineer%20%C2%B7%20Flutter%20%C2%B7%20KMP%20%C2%B7%20iOS&descAlignY=60&descSize=18" alt="Magesh Kanna banner" />
 
-**Mobile Engineer · Flutter · Kotlin Multiplatform · iOS**
-Building fast, polished, AI-powered mobile apps from India 🇮🇳
+<a href="https://github.com/Magesh-Kanna">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0175C2&center=true&vCenter=true&width=600&lines=Crafting+sleek%2C+high-performance+mobile+apps;Flutter+%2B+Firebase+%2B+AI+%F0%9F%A4%96;On+a+mission+to+become+a+full-stack+mobile+wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Ship+small%2C+ship+often%2C+keep+learning+%F0%9F%9A%80" alt="Typing animation" />
+</a>
 
 [Portfolio](https://mageshportfolio.netlify.app/) ·
 [LinkedIn](https://linkedin.com/in/Mageshkanna) ·
@@ -16,34 +17,90 @@ Building fast, polished, AI-powered mobile apps from India 🇮🇳
 
 ---
 
-## 🧭 About
+## 👨‍💻 About Me
 
-- 📱 I build and ship production mobile apps: from banking-grade apps to indie games and AI-driven consumer products.
-- 🤖 Exploring **AI in mobile**: Gemini, Firebase AI Logic, and agentic workflows inside Flutter apps.
-- 🌱 Currently deepening my skills in **Kotlin Multiplatform** and **clean architecture** for scalable apps.
-- 🤝 Active in the Flutter community (**NammaFlutter**), mentoring devs and sharing what I learn.
-- 💬 Ask me about: Flutter, Firebase, state management, Play Store releases, KMP.
+```dart
+class Magesh extends Developer {
+  final String role      = 'Mobile Engineer';
+  final String country   = 'India 🇮🇳';
+  final List<String> loves = ['Flutter', 'Kotlin Multiplatform', 'Firebase', 'AI-powered apps'];
+  final List<String> learning = ['KMP', 'Agentic AI workflows', 'Clean architecture'];
 
-## 🚀 Featured Projects
+  @override
+  String get mission => 'Become a full-stack mobile wizard 🧙‍♂️';
 
-| Project | What it is | Stack |
-|---|---|---|
-| **[Itineery AI](https://github.com/Magesh-Kanna/REPLACE_ME)** | AI travel itinerary planner that builds day-by-day trips from a prompt | Flutter · Firebase · Gemini |
-| **[The Price of Memories](https://github.com/Magesh-Kanna/REPLACE_ME)** | Narrative RPG mobile game | Kotlin Multiplatform · Korge |
+  void shipCode() {
+    while (alive) {
+      learn();
+      build();
+      share();   // mentoring devs & writing about it
+      repeat();
+    }
+  }
+}
+```
 
-> 🔗 Replace the `REPLACE_ME` links with your repo/Play Store URLs. Pin these two repos on your profile too.
+- 🤖 Exploring **AI in mobile**: Gemini, Firebase AI Logic, and agentic workflows inside Flutter apps
+- 🤝 Active in the Flutter community (**NammaFlutter**), mentoring devs and sharing what I learn
+- 💬 Ask me about: Flutter, Firebase, state management, Play Store releases, KMP
 
 ## 🛠️ Tech Stack
 
+### 📱 Mobile
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,firebase,gcp,python,django,cpp&theme=dark">
-  <img alt="Mobile and backend: Flutter, Dart, Kotlin, Swift, Android Studio, Firebase, Google Cloud, Python, Django, C++" src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,firebase,gcp,python,django,cpp&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,xcode&theme=dark">
+  <img alt="Flutter, Dart, Kotlin, Swift, Android Studio, Xcode" src="https://skillicons.dev/icons?i=flutter,dart,kotlin,swift,androidstudio,xcode&theme=light">
 </picture>
 
+### ☁️ Backend & Cloud
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,gradle,figma,postman,netlify,mysql,mongodb,sqlite,js,html,css&theme=dark">
-  <img alt="Tools and web: Git, GitHub, Gradle, Figma, Postman, Netlify, MySQL, MongoDB, SQLite, JavaScript, HTML, CSS" src="https://skillicons.dev/icons?i=git,github,gradle,figma,postman,netlify,mysql,mongodb,sqlite,js,html,css&theme=light">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=firebase,gcp,python,django,cpp,js&theme=dark">
+  <img alt="Firebase, Google Cloud, Python, Django, C++, JavaScript" src="https://skillicons.dev/icons?i=firebase,gcp,python,django,cpp,js&theme=light">
 </picture>
+
+### 🗄️ Databases
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark">
+  <img alt="MySQL, MongoDB, SQLite" src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=light">
+</picture>
+&nbsp;![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+
+### 🌐 Web
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=html,css,js,netlify&theme=dark">
+  <img alt="HTML, CSS, JavaScript, Netlify" src="https://skillicons.dev/icons?i=html,css,js,netlify&theme=light">
+</picture>
+
+### 📊 Data & AI
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,numpy,pandas&theme=dark">
+  <img alt="Python, NumPy, Pandas" src="https://skillicons.dev/icons?i=python,numpy,pandas&theme=light">
+</picture>
+&nbsp;![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Firebase AI](https://img.shields.io/badge/Firebase%20AI%20Logic-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+### 🧰 Tools & DevOps
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,gradle,vscode,docker,linux,bash,postman,figma&theme=dark">
+  <img alt="Git, GitHub, GitHub Actions, Gradle, VS Code, Docker, Linux, Bash, Postman, Figma" src="https://skillicons.dev/icons?i=git,github,githubactions,gradle,vscode,docker,linux,bash,postman,figma&theme=light">
+</picture>
+&nbsp;![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+
+## 🎯 What I'm Focused On
+
+| 🔭 Building | 🌱 Learning | 🎓 Sharing |
+|---|---|---|
+| AI-powered Flutter apps | Kotlin Multiplatform | Mentoring junior devs |
+| Apps published on Google Play | Agentic AI patterns | Community talks & meetups |
+| Clean, testable architecture | Advanced Firebase | Articles on Medium |
+
+## ⚡ Fun Facts
+
+- ☕ Fuelled by filter coffee and `flutter run`
+- 🏅 I believe good animations are the difference between an app and an *experience*
+- 🐛 My most-used debugging tool is still `print()`, and I'm not ashamed
+- 🎮 I like building things that feel alive, whether that's UI or games
+- 🧙‍♂️ Collecting skills one commit at a time
 
 ## 📊 GitHub Activity
 
@@ -63,6 +120,11 @@ Building fast, polished, AI-powered mobile apps from India 🇮🇳
   <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Magesh-Kanna&hide_border=true">
 </picture>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Magesh-Kanna&bg_color=0d1117&color=58a6ff&line=0175C2&point=ffffff&area=true&hide_border=true">
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Magesh-Kanna&bg_color=ffffff&color=0175C2&line=0175C2&point=000000&area=true&hide_border=true">
+</picture>
+
 </div>
 
 ## 📬 Let's Connect
@@ -72,6 +134,6 @@ Reach me via [LinkedIn](https://linkedin.com/in/Mageshkanna) or my [portfolio](h
 
 <div align="center">
 
-*Ship small, ship often, keep learning.* 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:0175C2,100:02569B&section=footer" alt="footer" />
 
 </div>
