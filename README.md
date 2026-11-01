@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:02569B,100:0175C2&text=Magesh%20Kanna&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Mobile%20Engineer%20%C2%B7%20Flutter%20%C2%B7%20KMP%20%C2%B7%20iOS&descAlignY=60&descSize=18" alt="Magesh Kanna banner" />
 
-<a href="https://github.com/Magesh-Kanna">
+<a href="https://github.com/Magesh-kanna">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=0175C2&center=true&vCenter=true&width=600&lines=Crafting+sleek%2C+high-performance+mobile+apps;Flutter+%2B+Firebase+%2B+AI+%F0%9F%A4%96;On+a+mission+to+become+a+full-stack+mobile+wizard+%F0%9F%A7%99%E2%80%8D%E2%99%82%EF%B8%8F;Ship+small%2C+ship+often%2C+keep+learning+%F0%9F%9A%80" alt="Typing animation" />
 </a>
 
@@ -63,7 +63,7 @@ class Magesh extends Developer {
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=dark">
   <img alt="MySQL, MongoDB, SQLite" src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite&theme=light">
 </picture>
-&nbsp;![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
+&nbsp;<img alt="SQL Server" src="https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white">
 
 ### 🌐 Web
 <picture>
@@ -76,15 +76,15 @@ class Magesh extends Developer {
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python,numpy,pandas&theme=dark">
   <img alt="Python, NumPy, Pandas" src="https://skillicons.dev/icons?i=python,numpy,pandas&theme=light">
 </picture>
-&nbsp;![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Firebase AI](https://img.shields.io/badge/Firebase%20AI%20Logic-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+&nbsp;<img alt="Gemini" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white">
+<img alt="Firebase AI Logic" src="https://img.shields.io/badge/Firebase%20AI%20Logic-FFCA28?style=flat-square&logo=firebase&logoColor=black">
 
 ### 🧰 Tools & DevOps
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,githubactions,gradle,vscode,docker,linux,bash,postman,figma&theme=dark">
   <img alt="Git, GitHub, GitHub Actions, Gradle, VS Code, Docker, Linux, Bash, Postman, Figma" src="https://skillicons.dev/icons?i=git,github,githubactions,gradle,vscode,docker,linux,bash,postman,figma&theme=light">
 </picture>
-&nbsp;![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+&nbsp;<img alt="Canva" src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white">
 
 ## 🎯 What I'm Focused On
 
@@ -107,22 +107,22 @@ class Magesh extends Developer {
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Magesh-Kanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
-  <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=Magesh-Kanna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Magesh-kanna&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true">
+  <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=Magesh-kanna&show_icons=true&hide_border=true&count_private=true&include_all_commits=true">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Magesh-Kanna&layout=compact&theme=tokyonight&hide_border=true">
-  <img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magesh-Kanna&layout=compact&hide_border=true">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Magesh-Kanna&theme=tokyonight&hide_border=true">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Magesh-Kanna&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Magesh-kanna&layout=compact&theme=tokyonight&hide_border=true">
+  <img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Magesh-kanna&layout=compact&hide_border=true">
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Magesh-Kanna&bg_color=0d1117&color=58a6ff&line=0175C2&point=ffffff&area=true&hide_border=true">
-  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Magesh-Kanna&bg_color=ffffff&color=0175C2&line=0175C2&point=000000&area=true&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Magesh-kanna&theme=tokyonight&hide_border=true">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com/?user=Magesh-kanna&hide_border=true">
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Magesh-kanna&bg_color=0d1117&color=58a6ff&line=0175C2&point=ffffff&area=true&hide_border=true">
+  <img alt="Contribution graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Magesh-kanna&bg_color=ffffff&color=0175C2&line=0175C2&point=000000&area=true&hide_border=true">
 </picture>
 
 </div>
